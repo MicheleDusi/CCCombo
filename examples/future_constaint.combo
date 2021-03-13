@@ -1,0 +1,8 @@
+hidden x = 2
+y = [2, 3, 5] + x
+# y avrà valore 4, poi 5, poi 7
+z = y - 4
+# z avrà valore 0, poi 1, poi 3
+with x < z
+# La condizione farà in modo che solamente il valore z = 3 sia valido, scartando le altre combinazioni
+# In questo modo potrei anche risolvere dei semplici problemi di soddisfacibilità 
