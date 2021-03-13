@@ -16,3 +16,7 @@ So, why am I publishing this *unfinished*, *unspecial* and *maybe-not-so-well-co
 1. To force myself to finish it.
 2. If the previous point works, to share it with other people. (I have no expectations, don't worry about that).
 3. If the previous point succeeds, to improve it by receiving suggestions, critiques and help.
+
+---
+
+For further information and examples of how it works, please visit the [Wiki](https://github.com/MicheleDusi/CCCombo/wiki).
